@@ -12,7 +12,7 @@
     <meta name="keywords" content="Ora theme template">
 
     <!-- Title Page-->
-    <title>Homepage - HTML5 Templates</title>
+    <title>Sabuj Sahi</title>
 
 
     <!-- All CSS-->
@@ -34,7 +34,7 @@
             <div class="section-inner header-bar">
                 <div class="header-bar-logo">
                     <a href="index.html">
-                        <img src="{{ URL::to('public/assets/images/icons/logo.png') }}" alt="Ora">
+                        <img src="{{ URL::to('public/assets/images/icons/sabuj.png') }}" alt="Sabuj">
                     </a>
                 </div>
                 <div class="header-bar-menu">
@@ -978,9 +978,9 @@
                 <p class="footer-text-intro">
                     <span>Built with</span>
                     <span class="fa fa-heart"></span>
-                    <span>in New York</span>
+                    <span>in Bangladesh</span>
                 </p>
-                <p class="footer-copy-text">@ 2017 Designed by ThemeEggs.</p>
+                <p class="footer-copy-text">Developed by RockerTuhin.</p>
             </div>
         </div>
     </footer>
